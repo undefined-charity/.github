@@ -4,7 +4,6 @@
 ![Undefined Logo](https://undefined.charity/documents/logo.svg)
 
 **Undefined** is a registered 501(c)(3) nonprofit organization based in Washington State, dedicated to creating safe and affirming environments where LGBTQIA+ individuals facing marginalization can connect with others who understand their experiences.
-
 ---
 
 ## 🌟 Our Mission
