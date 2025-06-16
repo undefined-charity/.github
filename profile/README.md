@@ -1,7 +1,7 @@
 # Undefined 🏳️‍🌈
 ### Creating Safe Spaces for LGBTQIA+ Community
 
-![Undefined Logo](https://undefined.charity/_astro/logo.Bi23g8_D_1uK5aN.webp)
+![Undefined Logo](https://undefined.charity/documents/logo.svg)
 
 **Undefined** is a registered 501(c)(3) nonprofit organization based in Washington State, dedicated to creating safe and affirming environments where LGBTQIA+ individuals facing marginalization can connect with others who understand their experiences.
 

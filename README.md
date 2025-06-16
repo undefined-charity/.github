@@ -1,6 +1,6 @@
 # Welcome to Undefined! 🏳️‍🌈
 
-![Undefined Logo](https://undefined.charity/_astro/logo.Bi23g8_D_1uK5aN.webp)
+![Undefined Logo](https://undefined.charity/documents/logo.svg)
 
 ## About This Repository
 
